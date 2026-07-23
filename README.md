@@ -30,7 +30,6 @@ python translator.py
 
 ![Translator Screenshot](screenshot.png)
 
-
 ## 👨‍💻 Author
 
 Aditya Kumar Pandit
