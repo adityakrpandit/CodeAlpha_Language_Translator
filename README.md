@@ -28,7 +28,7 @@ python translator.py
 
 ## 📷 Output
 
-![Translator Screenshot](screenshot.png)
+![Translator Screenshot](Screenshot.png)
 
 ## 👨‍💻 Author
 
