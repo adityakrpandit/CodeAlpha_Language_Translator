@@ -23,7 +23,7 @@ This project is an AI Language Translator developed using Python and Tkinter. It
 
 ```bash
 pip install -r requirements.txt
-python translator.py
+python app.py
 ```
 
 ## 📷 Output
